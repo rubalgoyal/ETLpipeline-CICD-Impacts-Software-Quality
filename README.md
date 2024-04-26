@@ -7,7 +7,7 @@ In this university project, I delved into the effects of Continuous Integration 
 - Utilization of GitHub API for data extraction
 - Development of an ETL job in Jupyter Notebook and MySQL for data storage. The ETL process is detailed in [ETL_github_repo_search.ipynb](ETL_github_repo_search.ipynb).
 - Categorization of commit messages using [Spacy](https://spacy.io/) package, detailed in [NLP_commit_message_categorize.ipynb](NLP_commit_message_categorize.ipynb).
-- Visualizations and hypothesis testing using Pandas, Matplotlib, and Stats package, available in [Data_Analysis.ipynb][Data_Analysis.ipynb]
+- Visualizations and hypothesis testing using Pandas, Matplotlib, and Stats package, available in [Data_Analysis.ipynb](Data_Analysis.ipynb)
 
 ## Methodology
 The project encompassed the following steps:
