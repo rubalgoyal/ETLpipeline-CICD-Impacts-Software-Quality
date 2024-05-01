@@ -1,0 +1,115 @@
+aiekick/ImGuiFontStudio :security test ,codeql
+CynxCode/OpenWcs :unit test ,ctest
+imcs-compsim/MIRCO :unit test ,ctest
+OpenWinch/OpenWinch-Cpp :unit test ,ctest
+OpenWinch/OpenWinch-Cpp :code smell test ,cppcheck
+OpenWinch/OpenWinch-Cpp :unit test ,ctest
+OpenWinch/OpenWinch-Cpp :code smell test ,cppcheck
+OpenWinch/OpenWinch-Cpp :code smell test ,cppcheck
+OpenWinch/OpenWinch-Cpp :security test ,codeql
+cescalara/minieuso_cpu :unit test ,boost
+Matt-and-Gib/gleemail :security test ,codeql
+Matt-and-Gib/gleemail :unit test ,ctest
+LizardByte/Sunshine :unit test ,boost
+LizardByte/Sunshine :security test ,codeql
+LizardByte/Sunshine :security test ,codeql
+LizardByte/Sunshine :security test ,codeql
+WasmEdge/WasmEdge :unit test ,ctest
+WasmEdge/WasmEdge :security test ,codeql
+WasmEdge/WasmEdge :unit test ,ctest
+WasmEdge/WasmEdge :unit test ,ctest
+WasmEdge/WasmEdge :unit test ,ctest
+WasmEdge/WasmEdge :unit test ,ctest
+WasmEdge/WasmEdge :unit test ,ctest
+weserv/images :unit test ,ctest
+hyperledger-archives/iroha :unit test ,ctest,xunit
+hyperledger-archives/iroha :code smell test ,cppcheck,sonar
+hyperledger-archives/iroha :security test ,sonar
+Netis/cloud-probe :unit test ,boost,ctest
+brainboxdotcc/DPP :unit test ,ctest
+brainboxdotcc/DPP :security test ,codeql
+brainboxdotcc/DPP :security test ,codeql
+venediktov/vanilla-rtb :unit test ,boost
+glotzerlab/hoomd-blue :unit test ,ctest
+games-on-whales/wolf :unit test ,boost
+laoshanxi/app-mesh :security test ,codeql
+laoshanxi/app-mesh :code smell test ,coverity
+laoshanxi/app-mesh :security test ,codeql
+kryptokrona/kryptokrona :unit test ,boost
+kryptokrona/kryptokrona :unit test ,boost
+kryptokrona/kryptokrona :unit test ,boost
+jinay1991/spleeter :unit test ,junit
+jinay1991/spleeter :code smell test ,cppcheck
+winternet/chord :unit test ,boost,ctest
+winternet/chord :unit test ,ctest
+nam20485/OdbDesign :unit test ,junit,ctest
+nam20485/OdbDesign :security test ,codeql
+nam20485/OdbDesign :security test ,codeql
+nam20485/OdbDesign :security test ,codeql
+prince-chrismc/user-management :security test ,codeql
+bensuperpc/GTA_SA_cheat_finder :unit test ,ctest
+bensuperpc/GTA_SA_cheat_finder :code smell test ,cppcheck
+bensuperpc/GTA_SA_cheat_finder :unit test ,ctest
+bensuperpc/GTA_SA_cheat_finder :unit test ,ctest
+bensuperpc/GTA_SA_cheat_finder :unit test ,ctest
+trep/opentrep :unit test ,boost
+trep/opentrep :code smell test ,cppcheck
+trep/opentrep :security test ,codeql
+WQCG/blitzdg :unit test ,boost
+SKA-ScienceDataProcessor/integration-prototype :code smell test ,cppcheck
+gnu-enjoyer/Palantir :unit test ,ctest
+jinay1991/perception :unit test ,junit
+jinay1991/perception :code smell test ,cppcheck
+Trree/MiniCompleteProject :unit test ,ctest
+Trree/MiniCompleteProject :unit test ,ctest
+deflinhec/gsx2jsonpp :unit test ,ctest
+deflinhec/gsx2jsonpp :unit test ,ctest
+kurotych/modern-cpp-lib :unit test ,unittest
+HenryChen-CH/Boost-Web-Server :unit test ,boost
+youpong/cpp-sleep-sort :unit test ,ctest
+harith-alsafi/mcpp :unit test ,ctest
+harith-alsafi/mcpp :security test ,codeql
+gobha-me/oci-tool :security test ,codeql
+jinay1991/planning :unit test ,junit
+jinay1991/planning :code smell test ,cppcheck
+PiratesOnlineClassic/Astron :unit test ,boost
+karlheinzkurt/cpp-micro-service :unit test ,ctest,xunit
+karlheinzkurt/cpp-micro-service :unit test ,gunit
+BlankFoxGirl/cardinal-cpp :security test ,codeql
+monotok/weatherStationPlus :unit test ,junit
+star-3gg/derek-banas-software-architecture :unit test ,ctest
+cfanatic/cpp-exercises :unit test ,xunit
+cfanatic/cpp-exercises :code smell test ,cppcheck
+simonthorell/cpp-mqtt-sqlite :unit test ,ctest
+threadexio/sfsdb :unit test ,boost
+winterbloooom/seurislam-pj :unit test ,unittest
+42milez/StarNetwork :unit test ,junit
+ipotqo/multifurcation :unit test ,ctest
+AnonN10/sf2hpp :unit test ,ctest
+AnonN10/best-pathtracer-ever :unit test ,ctest
+Tencent/Hippy :security test ,codeql
+userver-framework/userver :unit test ,unittest,ctest
+userver-framework/userver :security test ,codeql
+treefrogframework/treefrog-framework :security test ,codeql
+the-moisrex/webpp :unit test ,boost
+the-moisrex/webpp :unit test ,boost
+the-moisrex/webpp :unit test ,boost,ctest
+Yadoms/yadoms :unit test ,unittest
+hotkit/fostgres :unit test ,boost
+hotkit/fostgres :unit test ,boost
+RipcordSoftware/libhttpserver :unit test ,boost
+forceunited/force :unit test ,boost
+ElementAstro/Lithium :security test ,codeql
+jatofg/nawa :unit test ,boost,unittest
+jatofg/nawa :unit test ,boost
+jatofg/nawa :security test ,codeql
+jatofg/nawa :unit test ,unittest
+watersalesman/BeastQuest :unit test ,ctest
+Ramirisu/fitoria :unit test ,boost,ctest
+Ramirisu/fitoria :unit test ,boost,ctest
+JacobBorden/Websocket :unit test ,ctest
+JacobBorden/Websocket :security test ,codeql
+WebFrame/Core :security test ,codeql
+Aliebc/abxhttpd :unit test ,ctest
+Aliebc/abxhttpd :unit test ,ctest
+Prabhakar-Poudel/codeward :security test ,codeql

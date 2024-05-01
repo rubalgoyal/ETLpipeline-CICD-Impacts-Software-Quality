@@ -1,0 +1,581 @@
+dariol83/ccsds:GitHub Actions
+joular/joularjx:GitHub Actions
+gorpipe/gor:GitLab CI,GitHub Actions
+firm1/zest-writer:GitHub Actions
+saumya1singh/Fitofy-India:GitHub Actions
+Araxeus/ScreenshotZ:Travis CI,GitHub Actions
+LimoDerEchte/NoteCompanion:GitHub Actions
+3KeyCompany/CZERTAINLY-Software-Cryptography-Provider:GitHub Actions
+albertoiNET/designpatterns:Travis CI
+softwartechnik/catalin:Travis CI
+opensciencegrid/gums:Travis CI
+Aberkingaliev/hackathon-hub:GitHub Actions
+Eimer-Archive/EimerArchive-Backend:GitHub Actions
+exoad/Poprock:GitHub Actions
+opensciencegrid/privilege-xacml:Travis CI
+TopiaCoin/supportNode:Jenkins
+Stirling-Tools/Stirling-PDF:Jenkins,GitHub Actions
+GoogleContainerTools/jib:GitHub Actions
+sqshq/piggymetrics:Travis CI
+testcontainers/testcontainers-java:Circle CI,GitHub Actions
+pig-mesh/pig:GitHub Actions
+obsidiandynamics/kafdrop:GitHub Actions
+strimzi/strimzi-kafka-operator:GitHub Actions
+pytorch/serve:GitHub Actions
+exadel-inc/CompreFace:GitHub Actions
+networknt/light-4j:Travis CI
+linhaojun857/aurora:GitHub Actions
+docker-java/docker-java:GitHub Actions
+spotify/dockerfile-maven:Travis CI
+bonigarcia/webdrivermanager:GitHub Actions
+zalando/zalenium:Travis CI
+jonashackt/spring-boot-vuejs:GitHub Actions
+fabric8io/docker-maven-plugin:Jenkins,GitHub Actions
+spring-petclinic/spring-petclinic-microservices:GitHub Actions
+ron190/jsql-injection:GitHub Actions
+bmuschko/gradle-docker-plugin:GitHub Actions
+dromara/Jpom:Travis CI,GitHub Actions
+adlered/bolo-solo:Travis CI,GitHub Actions
+OWASP/wrongsecrets:GitHub Actions
+kawhii/sso:Travis CI
+saturnism/grpc-by-example-java:GitHub Actions
+apache/ranger:Travis CI,GitHub Actions
+PlaytikaOSS/testcontainers-spring-boot:GitHub Actions
+SoftInstigate/restheart:GitHub Actions
+akto-api-security/akto:GitHub Actions
+sczyh30/vertx-blueprint-microservice:Travis CI
+adobe/S3Mock:GitHub Actions
+apache/submarine:GitHub Actions
+opentable/otj-pg-embedded:GitHub Actions
+eclipse/jkube:Jenkins,GitHub Actions
+dromara/dante-cloud:GitHub Actions
+yegor256/rultor:GitHub Actions
+ICIJ/datashare:Circle CI,GitHub Actions
+rosehgal/TrashEmail:Travis CI,GitHub Actions
+anthonyraymond/joal:GitHub Actions
+hzxie/voj:Travis CI,AppVeyor
+groupon/DotCi:Travis CI
+openanalytics/shinyproxy:Jenkins,GitHub Actions
+jenkinsci/docker-workflow-plugin:Jenkins,GitHub Actions
+jenkinsci/docker-plugin:Jenkins,GitHub Actions
+Project-Books/book-project:GitHub Actions
+micyo202/lion:Travis CI,GitHub Actions
+hyscale/hyscale:GitHub Actions
+palantir/docker-compose-rule:AppVeyor
+Camelcade/Perl5-IDEA:GitHub Actions
+bonigarcia/mastering-junit5:GitHub Actions
+nashtech-garage/yas:GitHub Actions
+piomin/sample-spring-microservices-kubernetes:Circle CI
+kbastani/event-sourcing-microservices-example:Travis CI
+mudigal-technologies/microservices-sample:Travis CI
+stick-i/scblogs:GitHub Actions
+ThomasVitale/cloud-native-spring-in-action:GitHub Actions
+mechero/full-reactive-stack:Travis CI
+rybalkinsd/atom:Travis CI
+networknt/light-oauth2:Travis CI
+castlemock/castlemock:GitHub Actions
+hantsy/spring-microservice-sample:GitHub Actions
+dasniko/testcontainers-keycloak:GitHub Actions
+swri-robotics/bag-database:GitHub Actions
+wso2/product-microgateway:Travis CI,GitHub Actions
+codeabovelab/haven-platform:Travis CI
+amihaiemil/docker-java-api:Travis CI,GitHub Actions
+dockersamples/wordsmith:GitHub Actions
+wkrzywiec/library-hexagonal:GitHub Actions
+MobilityData/gtfs-validator:GitHub Actions
+Asqatasun/Asqatasun:GitLab CI
+bonigarcia/selenium-jupiter:GitHub Actions
+jonashackt/spring-boot-graalvm:GitHub Actions
+JavatoDev-com/internet-banking-concept-microservices:GitHub Actions
+miso-lims/miso-lims:GitHub Actions
+cryostatio/cryostat:GitHub Actions
+jenkinsci/docker-slaves-plugin:Jenkins
+wiremock/wiremock-docker:GitHub Actions
+zzzzbw/Fame:Travis CI
+confluence-publisher/confluence-publisher:Circle CI
+AwakenCN/Almost-Famous:Travis CI
+jenkinsci/docker-build-publish-plugin:Jenkins,GitHub Actions
+kochetkov-ma/allure-server:GitHub Actions
+jerverless/jerverless:Travis CI,GitHub Actions
+opsxcq/tasker:Travis CI,GitLab CI
+vzakharchenko/keycloak-radius-plugin:Circle CI,GitHub Actions
+aws-containers/retail-store-sample-app:GitHub Actions
+Sunagatov/Iced-Latte:GitHub Actions
+open-runtimes/open-runtimes:Travis CI
+nosqlbench/nosqlbench:GitHub Actions
+RawSanj/spring-redis-websocket:GitHub Actions
+end-of-game/cloudunit:Travis CI
+fisenkodv/dictum:Travis CI,GitHub Actions
+bonigarcia/selenium-webdriver-java:GitHub Actions
+zyclonite/nassh-relay:GitHub Actions
+SelimHorri/ecommerce-microservice-backend-app:GitHub Actions
+ozlerhakan/rapid:Travis CI
+wesleyosantos91/poc-multi-module-arch-hexagonal-springboot:GitHub Actions
+yilmaznaslan/berlin-auslaenderbehorde-termin-bot:GitHub Actions
+salesforce/dockerfile-image-update:GitHub Actions
+gngpp/vertx-ddns:GitHub Actions
+spring-petclinic/spring-petclinic-cloud:GitHub Actions
+zakariamaaraki/RemoteCodeCompiler:GitHub Actions
+la3rence/websocket-cluster:GitHub Actions
+tomoyane/springboot-bestpractice:GitHub Actions
+TeamPiped/Piped-Backend:GitHub Actions
+kilmajster/ngrok-spring-boot-starter:GitHub Actions
+DanielMichalski/spring-boot-java-swing-reservations:GitHub Actions
+georchestra/georchestra:GitHub Actions
+arquillian/arquillian-cube:Travis CI
+dockstore/dockstore:Circle CI,GitHub Actions
+jenkinsci/docker-build-step-plugin:Jenkins
+ThoreauZZ/spring-cloud-example:Travis CI
+LarryDpk/pkslow-samples:GitHub Actions
+jveverka/spring-examples:GitHub Actions
+Tristan971/EasyFXML:Circle CI
+tech1-io/tech1-skeletons:GitHub Actions
+piomin/sample-spring-blockchain:Circle CI
+aidanwhiteley/books:GitHub Actions
+nkonev/r2dbc-migrate:GitHub Actions
+jmprathab/MyHome:GitHub Actions
+hmcts/spring-boot-template:Jenkins,GitHub Actions
+cosminseceleanu/tutorials:GitHub Actions
+daggerok/streaming-file-server:Travis CI,GitHub Actions
+KostyaSha/yet-another-docker-plugin:Travis CI,GitHub Actions
+kirya522/medium-posts:GitHub Actions
+f-lab-edu/event-recommender-festa:Jenkins
+Systemmanic/docker-compose-maven-plugin:GitHub Actions
+SelimHorri/project-tracking-system-backend-app:GitHub Actions
+usdot-jpo-ode/jpo-ode:Circle CI,GitHub Actions
+wildfly-extras/wildfly-camel:GitHub Actions
+jenkinsci/docker-custom-build-environment-plugin:Jenkins
+GodLikeZeal/zealsay_backend:Travis CI
+MicroShed/microshed-testing:GitHub Actions
+jppf-grid/JPPF:Travis CI
+sidd-harth/kubernetes-devops-security:Jenkins
+praveensirvi1212/DevSecOps-project:Jenkins
+imrenagi/microservice-skeleton:Travis CI
+aleksey-lukyanets/market:GitHub Actions
+oracle/weblogic-image-tool:Jenkins,GitHub Actions
+bytechefhq/bytechef:GitHub Actions
+logchange/logchange:GitHub Actions
+Rapter1990/springbootmicroservicedailybuffer:Jenkins
+jenkinsci/docker-swarm-plugin:Jenkins
+myashchenko/social-network:Travis CI
+particify/arsnova-server:GitLab CI
+onlythinking/micro-starter:Travis CI
+zhule0601/fula:GitHub Actions
+woowacourse-teams/2021-babble:GitHub Actions
+swissquote/carnotzet:GitHub Actions
+dmcheremisin/SpringBootSocialNetwork:Circle CI
+itzg/mc-image-helper:GitHub Actions
+afet-yonetim-sistemi/ays-be:GitHub Actions
+apache/openwhisk-runtime-java:GitHub Actions
+addshore/facebook-data-image-exif:GitHub Actions
+hashsploit/clank:Jenkins
+silaev/mongodb-replica-set:GitHub Actions
+ao-space/platform-base:GitHub Actions
+GoogleCloudPlatform/jetty-runtime:Travis CI
+Rapter1990/bookdelivery:GitHub Actions
+jenkinsci/docker-commons-plugin:Jenkins,GitHub Actions
+jenkinsci/dockerhub-notification-plugin:Jenkins,GitHub Actions
+jenkinsci/remoting-kafka-plugin:Jenkins
+adorabled4/hxBI:GitHub Actions
+feedbacky-project/app:GitHub Actions
+Washingtonwei/hogwarts-artifacts-online:GitHub Actions
+hmcts/document-management-store-app:Jenkins
+gbzarelli/quaklog-api:Circle CI
+Azure/acs-demos:Circle CI
+bitsofinfo/hazelcast-docker-swarm-discovery-spi:Travis CI
+Project-Books/books-api:GitHub Actions
+jonashackt/cxf-spring-cloud-netflix-docker:GitHub Actions
+genepi/cloudgene:Travis CI,GitHub Actions
+m-reza-rahman/jakartaee-kubernetes:GitHub Actions
+dgroup/docker-unittests:Travis CI,AppVeyor
+jonathanlermitage/manon:GitHub Actions,AppVeyor
+OKaluzny/spring-boot-docker-postgres:Travis CI
+marcopaga/spring-cloud-netflix-demo:Travis CI
+materna-se/declab:Circle CI
+ssulca/ddosdn:GitHub Actions
+adorabled4/TurboAPI:GitHub Actions
+libertymutual/herman:Travis CI
+BillyYccc/vertx-postgresql-starter:Travis CI
+selenide-examples/testcontainers:GitHub Actions
+giko/web-remoting:GitHub Actions
+sivaprasadreddy/techbuzz:GitHub Actions
+fosin/anan-cloud:GitHub Actions
+Rapter1990/simplebanking:GitHub Actions
+mamadaliev/spring-boot-postgres-vue-docker:Travis CI
+miguno/java-docker-build-tutorial:GitHub Actions
+Robothy/local-s3:GitHub Actions
+f-lab-edu/ward-study-reservation:Jenkins,GitHub Actions
+EuregJUG-Maas-Rhine/site:Travis CI
+badass-techie/eShopOnSteroids:GitHub Actions
+indrekru/spring-boot-2-oauth2-resource-server:Circle CI
+SpringBootCourses/tasklist:GitHub Actions
+thyrlian/SonarOnDocker:Travis CI
+jfrog/auto-mat:Jenkins
+rajadilipkolli/spring-boot-microservices-series-v2:GitHub Actions
+gerassimos/dgs19:GitHub Actions
+yegor256/thindeck:GitHub Actions
+schnatterer/smeagol-galore:GitHub Actions
+herodotus-ecosystem/dante-cloud-athena:GitHub Actions
+sivaprasadreddy/devzone:Circle CI,GitLab CI,GitHub Actions
+jenkins-infra/ircbot:Jenkins,GitHub Actions
+syfxlin/hoshi-note:GitHub Actions
+rslvn/bank-account-manager:Circle CI
+jonashackt/spring-boot-rest-clientcertificates-docker-compose:GitHub Actions
+andifalk/secure-development-on-kubernetes:GitHub Actions
+rueedlinger/kafka-connect-quickstart:GitHub Actions
+gocd/docker-registry-artifact-plugin:GitHub Actions
+team142/gg:Travis CI
+Angular2Guy/MovieManager:Travis CI,GitHub Actions
+hivemq/hivemq-testcontainer:GitHub Actions
+mincong-h/learning-elasticsearch:GitHub Actions
+muhamadto/spring-native-aws-lambda:GitHub Actions
+larmic/spring-boot-demos:GitHub Actions
+holdennguyen/cicd-pipeline-java-webapp:Jenkins,GitHub Actions
+muriloalvesdev/thehero-backend:Travis CI,GitHub Actions
+kubAretip/spring-micro-websocket-chat:Circle CI
+gameontext/sample-room-java:Travis CI
+codecentric/habitcentric:GitHub Actions
+Armando1514/spring-boot-microservices:Circle CI
+Angular2Guy/AngularPortfolioMgr:Travis CI,GitHub Actions
+epirus-io/epirus-cli:Travis CI
+hiejulia/flight-booking:Jenkins
+consiglionazionaledellericerche/cool-jconon:Travis CI,GitLab CI,Circle CI,GitHub Actions
+maping/java-maven-calculator-web-app:Jenkins,GitHub Actions
+luizgustavocosta/16-bits-zero-to-hero:GitHub Actions
+oracle-quickstart/oci-micronaut:GitHub Actions
+m-reza-rahman/azure-cafe:GitHub Actions
+NiklasTiede/imdb-clone:GitHub Actions
+miliariadnane/tasks-planner-app:GitHub Actions
+anitechcs/microservices-reference-application:GitHub Actions
+edward3h/minecraft-webhook:GitHub Actions
+daggerok/java-ee-examples:Travis CI,GitHub Actions
+idugalic/axon-scale-demo:GitHub Actions
+meridor/perspective-backend:Travis CI
+ssimmie/todos:GitHub Actions
+metio/ilo:GitHub Actions
+JoshEvan/StockManagementSystem:GitHub Actions
+ronenhamias/scalecube-microservices:Travis CI
+FanJups/cicd-applied-to-spring-boot-java-app:Travis CI
+vamsidarbhamulla/serenity-cucumber-bdd-screenplay:Circle CI
+freyacodes/fred.moe:Travis CI
+ticktok-io/ticktok.io:Circle CI
+extrawest/Charge-Point-Simulator-via-OCPP-2.0.1:GitHub Actions
+kilmajster/keycloak-username-password-attribute-authenticator:GitHub Actions
+FAIRDataTeam/OpenRefine-metadata-extension:GitHub Actions
+jpontdia/ws-employee-soapcxf:GitHub Actions
+rwynn/wellington:Travis CI
+johannesschaefer/simple-network-monitor:Travis CI
+EAT-IT-DOG/eatitdog-backend:GitHub Actions
+f-lab-edu/infrun:GitHub Actions
+d3m0/automation:GitHub Actions
+nkonev/blog:GitHub Actions
+INSPJT/instagram_clone_backend:GitHub Actions
+yurake/k8s-3tier-webapp:GitHub Actions
+codecentric/single-page-application-server:GitHub Actions
+aedemirsen/SpringbootTemplate:GitHub Actions
+bdostumski/spring-boot-full-stack-professional:GitHub Actions
+Angular2Guy/AngularAndSpringWithMaps:Travis CI,GitHub Actions
+wkrzywiec/NoticeBoard:GitHub Actions
+WiscWebGroup/photoly:Jenkins,GitHub Actions
+AmyAssist/Amy:Travis CI
+sdaskaliesku/fo76tradeServer:GitHub Actions
+pupilcc/pushbot:GitHub Actions
+occiware/ecore:Travis CI
+Labs64/NetLicensing-Gateway:GitHub Actions
+tech1-io/tech1-framework:GitHub Actions
+kalayciburak/microservices:GitHub Actions
+RohanNagar/op-connect-sdk-java:GitHub Actions
+arquillian/arquillian-cube-q:Travis CI
+Sammers21/pvpqnet:GitHub Actions
+estefafdez/selenium-cucumber:Travis CI
+mixaverros88/dockerized-java-e-commerce-app:Travis CI
+eurohlam/rss2kindle:GitHub Actions
+polibuda-projects/student-benchmark:GitHub Actions
+marioluan/java-data-structures:Travis CI
+Consensys/quorum-acceptance-tests:GitHub Actions
+21tretiak0101/briana-crm:GitHub Actions
+zarashima/web-test-framework:Travis CI,Circle CI,GitHub Actions,Jenkins
+vaibhavsood/BookMyMovie:Travis CI
+novohit/linklyze:GitHub Actions
+xenit-eu/alfresco-docker-gradle-plugin:GitHub Actions,AppVeyor
+bonigarcia/selenium-jupiter-examples:GitHub Actions
+hardingadonis/saledock:GitHub Actions
+seqeralabs/wave-cli:GitHub Actions
+daggerok/spring-boot-rest-jms-activemq:Travis CI
+fabri1983/signaling_server:Travis CI
+jenkinsci/jfrog-plugin:Jenkins,GitHub Actions
+ScottG489/conjob:GitHub Actions
+hivemq/hivemq-dns-cluster-discovery-extension:GitHub Actions
+jeakfrw/jeak-framework:Circle CI,GitHub Actions
+brunotacca/poc_cleanarch_spring_multimodule:GitHub Actions
+hajali-amine/image-resizer:GitHub Actions
+lexxito/webobjects_docker:GitHub Actions
+tchlyah/testcontainers-java-module-couchbase:Travis CI
+fworks/algorithms-spring-boot:Travis CI,Circle CI
+easystartup-io/k3s-simplified:GitHub Actions
+jeddict/jeddict-extensions:Travis CI
+qlik-oss/core-grpc-jdbc-connector:Circle CI
+cptntotoro/java-explore-with-me:GitHub Actions
+consiglionazionaledellericerche/sigla-main:Travis CI,GitLab CI,Circle CI,GitHub Actions
+hmcts/cmc-claim-store:Travis CI,GitHub Actions,Jenkins
+tascigorkem/restaurant-service:Travis CI
+kokuwaio/k3s-maven-plugin:GitHub Actions
+vinscom/api-framework:Jenkins
+isystk/java-springboot-boilerplate:Jenkins,Circle CI
+hexanome-04/splendor:GitHub Actions
+FirebirdSQL/firebird-testcontainers-java:GitHub Actions
+heyrmi/API-Testing-Framework:GitHub Actions
+dockerunit/dockerunit:Circle CI
+Dhina17/DhinaBot:GitHub Actions
+team-e-techeer/schoolvery-be:GitHub Actions
+jadonharsh109/GitOps-Master-Actions:GitHub Actions
+trinhdvt/lang-thang:GitHub Actions
+nsclass/ns-svg-converter:GitHub Actions
+anasabbal/mini-uber-microservice:GitHub Actions
+sdetAutomation/seleniumJava:Travis CI,GitHub Actions
+oskopek/carcv:Travis CI,GitHub Actions
+hawkore/mule4-spring-boot-starter:GitLab CI
+seniorglez/UdachnyMC:GitHub Actions
+PhilKes/movieland:GitHub Actions
+exasol/exasol-testcontainers:GitHub Actions
+Assifar-Karim/The-Internet-Chkpt:Circle CI
+MYONGSIK/Server:GitHub Actions
+kirilllzaitsev/inverted_index:GitHub Actions
+JedzenieBohater/Food-Hero:Travis CI
+gbzarelli/music-store-api:Circle CI
+piomin/sample-vertx-kubernetes:Circle CI
+Asset-management-service/backend:GitHub Actions
+SasanLabs/VulnerableApp-jsp:GitHub Actions
+InformaticsMatters/squonk:GitHub Actions
+apache/openwhisk-runtime-ballerina:Travis CI
+cptntotoro/java-shareit:GitHub Actions
+boul2gom/nullptr-tools:GitHub Actions
+taeyun1215/Exercise_with_me:GitHub Actions
+egorguru/artaeum:Travis CI
+Gmentsik/ranch2git:GitLab CI
+rtdi/AppContainer:GitHub Actions
+2YeongHoon/Springboot-Mobile-Invitation-Server:GitHub Actions
+rohanKanojia/eclipse-jkube-demo-project:GitHub Actions
+watsh-rajneesh/amigo-chatbot:Travis CI
+alanda-io/alanda:Jenkins,GitHub Actions
+softeerbootcamp-2nd/H8-YoungCha:GitHub Actions
+Akash-Mittal/bp-wallet-grpc-spring:Travis CI
+mixaverros88/dockerized-java-mysql-app:Travis CI
+AndriyKalashnykov/spring-on-k8s:GitHub Actions
+orladigital/trivy-maven-plugin:GitHub Actions
+amrabed/rhids:Travis CI
+lreimer/secure-devex22:GitHub Actions
+leopardslab/dunner-gocd-plugin:Travis CI
+NubeIO/iot-engine:Jenkins,GitHub Actions
+johnnymillergh/spring-cloud-tutorial:Travis CI
+IT-Academy-BCN/BusinessAssistantBCN-backend:GitHub Actions
+Scarsz/Marina:GitHub Actions
+benc-uk/java-demoapp:GitHub Actions
+nobt-io/api:GitHub Actions
+ashrawan/swa-proj3:GitHub Actions
+Eukon05/financetracker:GitHub Actions
+jenkinsci/docker-fixtures:Jenkins,GitHub Actions
+faph/icalendar-validator:GitHub Actions
+carlossg/croc-hunter-java:Jenkins
+h1alexbel/cdit:GitHub Actions
+openremote/fleet-management:GitHub Actions
+Pororoz/iStock-Backend:GitHub Actions
+sncf-connect-tech/vboard:GitHub Actions
+arakelian/docker-junit-rule:GitHub Actions
+newaustriancodingschool/hackboard:Jenkins,Circle CI
+IT-Labs/backyard:GitHub Actions
+i-moonlight/Movie_Manager:Travis CI,GitHub Actions
+Lehnurr/spe-ed-solver:GitHub Actions
+AreaFiftyLAN/lancie-api:GitHub Actions
+bcgov/jag-file-submission:GitHub Actions
+Picland/v3-backend-java:Travis CI
+capcodigital/team-course:Circle CI
+correctexam/corrigeExamBack:GitHub Actions
+peavers-archive/swordfish-service:Travis CI
+jliuold/docker-api-spring-boot:Travis CI
+Humberto-Bonadiman/streaming-microsservice:GitHub Actions
+Thibstars/Currency-Converter-Bot:Travis CI
+leonlatsch/kolibri-server:GitHub Actions
+onerishabh/data-ingestion-orchestration:GitHub Actions
+alexandre-touret/rest-apis-versioning-workshop:GitHub Actions
+thewillyhuman/snoicd-codex:Travis CI
+i-moonlight/Gear_Service:Travis CI
+Sheldan/abstracto:GitHub Actions
+npu-carpooling-system-team/carpooling-server:GitHub Actions
+GhassenBoughzala/DevOps-Timesheet:Jenkins,GitLab CI
+CodeChillAlluna/code-chill-outdated:Travis CI
+Vento/rest-api:Travis CI
+jenkinsci/jenkins:Jenkins,GitHub Actions
+flyway/flyway:GitHub Actions
+liquibase/liquibase:GitHub Actions
+subhra74/snowflake:GitHub Actions
+testsigmahq/testsigma:GitHub Actions
+cdancy/jenkins-rest:GitHub Actions
+arextest/arex-agent-java:GitHub Actions
+traas-stack/holoinsight:GitHub Actions
+metersphere/jenkins-plugin:Jenkins,GitHub Actions
+perfectsense/gyro:GitHub Actions
+jenkinsci/dependency-check-plugin:Jenkins
+BBVA/mirrorgate:Jenkins
+sofastack/sofa-serverless:GitHub Actions
+jenkinsci/jira-steps-plugin:Jenkins,GitHub Actions
+chtrembl/azure-cloud:GitHub Actions
+wl4g/dopaas:Travis CI
+devops-dojo/the-app:Travis CI,Jenkins
+HermesGermany/galapagos:GitHub Actions
+CaravanaCloud/cloud-janitor:GitHub Actions
+seifrajhi/Kubernetes-practical-exercises-Hands-on:GitHub Actions
+microsphere-projects/microsphere-java:GitHub Actions
+twonote/radosgw-admin4j:GitHub Actions
+open-hand/devops-service:GitLab CI
+fossable/sandpolis:GitHub Actions
+sergiomartins8/test-automation-bootstrap:GitHub Actions
+jenkinsci/postbuildscript-plugin:Jenkins,GitHub Actions
+Dathin/JHusky:GitHub Actions
+Axway-API-Management-Plus/apim-cli:Travis CI,GitHub Actions
+microsphere-projects/microsphere-spring:GitHub Actions
+vmware/build-tools-for-vmware-aria:GitHub Actions
+rmkanda/secure-pipeline-java-demo:Jenkins
+hkarthik7/azure-devops-java-sdk:GitHub Actions
+vinayalodha/greenbot:GitHub Actions
+hakbot/hakbot-origin-controller:Travis CI
+jlangch/venice:GitHub Actions
+dnd-side-project/dnd-5th-5-backend:GitHub Actions
+fortify/FortifyVulnerabilityExporter:GitHub Actions
+Err0-io/err0agent:GitHub Actions
+ValFadeev/rundeck-vault-plugin:Travis CI
+Axway-API-Management-Plus/apimanager-swagger-promote:Travis CI
+iopipe/iopipe-java:Circle CI
+ucloud/ucloud-sdk-java:GitHub Actions
+finos-labs/architecture-as-code:GitHub Actions
+miw-upm/iwvg-devops:GitHub Actions
+NishkarshRaj/Maven-Using-CMD:Jenkins,GitHub Actions
+microsphere-projects/microsphere-spring-boot:GitHub Actions
+amihaiemil/comdor:Travis CI
+jfrog/bamboo-jfrog-plugin:GitHub Actions
+fortify-presales/IWA-Java:Jenkins,GitHub Actions
+kasdihacene/workflow-github-actions:GitHub Actions
+NishkarshRaj/Test-Automation:GitHub Actions
+perfectsense/gyro-aws-provider:GitHub Actions
+infobyte/faraday_burp:GitLab CI
+jenkinsci/adobe-cloud-manager-plugin:Jenkins,GitHub Actions
+javieraviles/quarkus-github-flow:GitHub Actions
+MathiasReker/Java-CI-CD:GitHub Actions
+AutomationRockstars/Design:Travis CI,Jenkins
+codspire/artifact-lookup-maven-plugin:Travis CI
+Axway-API-Management-Plus/apim-deployment:GitHub Actions
+Axway-API-Management-Plus/apim-password-cert-env:GitHub Actions
+jenkinsci/global-yaml-properties-plugin:Jenkins,GitHub Actions
+f0rkb0mbZ/java_devops_pipeline:Jenkins
+timurgaleev/demo-spring:Jenkins,Circle CI,GitHub Actions
+jenkinsci/uleska-plugin:Jenkins,GitHub Actions
+Treydone/dek:Travis CI
+coi-gov-pl/java-cascades:Travis CI
+ssuraci/spring-boot-playground:GitHub Actions
+jenkinsci/pipeline-input-notification-plugin:Jenkins,GitHub Actions
+perfectsense/gyro-azure-provider:GitHub Actions
+nju-softeng/dop-server:GitHub Actions
+RevianLabs/devops-webapp-sample:Jenkins,GitLab CI,Circle CI,GitHub Actions
+tonycituk/automated-javadoc:GitHub Actions
+JazerBarclay/ci536-group-project:GitHub Actions
+jenkinsci/autify-plugin:Jenkins,GitHub Actions
+SierraSystems/ntt-data-notification-service:GitHub Actions
+NorthropGrumman/jellyfish:Jenkins
+dongxishaonian/cangjie-delivery:GitHub Actions
+MatheuslFavaretto/Challenge_DevOps-2:Jenkins
+jahanzeb-j/DevOps:Jenkins,GitHub Actions
+perfectsense/gyro-google-provider:GitHub Actions
+microsphere-projects/microsphere-i18n:GitHub Actions
+Nathi360/Jenkins-Spring:Jenkins
+AgilX/agilix:Travis CI
+device42/rundeck-device42-nodes-plugin:Travis CI
+thePaulRichard/simple-java:GitHub Actions
+Juser0/SBOMaster:GitHub Actions
+jenkinsci/eggplant-runner-plugin:Jenkins,GitHub Actions
+Microservices-DevOps/person:Jenkins
+entando-k8s/entando-k8s-controller-coordinator:GitHub Actions
+intergral/deep-java-client:GitHub Actions
+wheel-sh/wheel-agent:Travis CI,Jenkins
+jjsair0412/My_Treasure_Box:GitHub Actions
+abhinandmanwate/NeuraVolt-AFourathon-3.0:GitHub Actions
+abhinandmanwate/VersaVolt:GitHub Actions
+cloudacademy/java-tdd-bitcoinconverter:GitHub Actions
+s24407-pj/User-management:GitHub Actions
+jenkinsci/openshift-k8s-credentials-plugin:Jenkins,GitHub Actions
+udacity-courses/capstone:Jenkins
+mukeshpilaniya/cms:GitHub Actions
+franklinholguin/MULTI-TIER-WEB-APP-SETUP:Jenkins
+devopsicon/sales-microservice:Travis CI
+dheid/sentry-http-interceptors:GitHub Actions
+abrahamalen/github-actions-ci-cd:GitHub Actions
+dg1223/ci-cd-pipeline-play-store-deployment:GitHub Actions
+fabien-roy/glo-2003-airbnb:GitHub Actions
+karthikairam/account-transaction-service:GitHub Actions
+rmkanda/gh-actions-secure-pipeline-java-demo:GitHub Actions
+LexifyOrganization/Lexify:Travis CI
+awconstable/teamdashboard:Circle CI,GitHub Actions
+jenkinsci/ghost-inspector-plugin:Jenkins
+raulsuarezdabo/tfm-challenges-in-DevOps:Jenkins
+jenkinsci/oversecured-plugin:Jenkins
+aravindsak/CICD-Pipeline-with-GithubActions-Docker:GitHub Actions
+jenkinsci/bitbucket-kubernetes-credentials-plugin:Jenkins,GitHub Actions
+dinushchathurya/springboot-gradle-jib-cicd:GitHub Actions
+cd-in-practice/pine-cone-continue-delivery-platform:Jenkins,GitHub Actions
+marcpinet/takenoko:GitHub Actions
+JuKu/ansible-manager:Travis CI
+fabien-roy/glo-4003-spamdul:GitHub Actions
+apwide/apwide-jira-steps-jenkins:Jenkins
+microsphere-projects/microsphere-configuration:GitHub Actions
+techntricks/mdevops-projects:Jenkins
+HoussemSaafi/JenkinsTutorialProject:Jenkins
+sourabhgupta385/sample-springboot-mysql-app:Jenkins
+fxnn/artixray:GitHub Actions
+NishkarshRaj/Release-Actions-Apache-Maven:GitHub Actions
+plizarraga/microservices-spring-boot-products:GitHub Actions
+suprkco/D-ploiement-automatis-et-livraison-continu-avec-Github-Ansible-et-Docker:GitHub Actions
+perfectsense/gyro-pingdom-provider:Travis CI
+perfectsense/gyro-doclet:Travis CI
+JoaoBruno09/ODSOFT-CI-CD:Jenkins
+aservo/confapi-crowd-plugin:GitHub Actions
+hvvka/devops:Travis CI
+nerstak/M1-Devops-Project:Jenkins
+filipeom/Adventure-Builder:Travis CI
+Nastel/gocypher-cybench-junit:GitHub Actions
+jerzabek/pinehaus:GitHub Actions
+SindriaInc/nanoREST:GitLab CI
+jenkinsci/bmc-cfa-plugin:Jenkins,GitHub Actions
+plizarraga/microservices-spring-boot-contacts:GitHub Actions
+mimaraslan/devops-demo:Jenkins
+Lito-Frito/A-Kubernetes-Kaniko-Pipeline-Java-Calculator:Jenkins
+jenspapenhagen/caas:GitHub Actions
+perfectsense/gyro-sample-plugin:Travis CI
+aservo/confapi-bitbucket-plugin:GitHub Actions
+AzizBenIsmail/DevOps-Project-Management:GitHub Actions
+achrafhammi/Mini-Bank-Backend:Jenkins
+jenkinsci/ca-mat-performance-benchmarking-by-broadcom-plugin:Jenkins
+MohssineElAttari/Test_Driven_Development-Brief:GitHub Actions
+Bitt3r/monopoly:GitHub Actions
+brunogenerali/Challenge_DevOps-2:GitHub Actions
+akiltipu/secure-shop-devops:Jenkins
+light3739/java-maven-jenkins_test:Jenkins
+flyway/flyway-community-db-support:GitHub Actions
+nihar01/SportItUp-Application:Jenkins
+choerodon/foundation-service:GitLab CI
+jorgealfonsogarcia/uan-spec-sweng-architecture-2-expo-01-devops-continuous-deployment-webapp:GitHub Actions
+microsphere-projects/microsphere-sentinel:GitHub Actions
+bayboran/maven-project:Jenkins
+awconstable/incidentservice:Circle CI,GitHub Actions
+eco-trip/rasp-control-unit:GitHub Actions
+microsphere-projects/microsphere-redis:GitHub Actions
+sourabhgupta385/sample-springboot-mongo-app:Jenkins
+Axway-API-Management-Plus/apim-create-fed-maven-plugin:GitHub Actions
+chouaibMo/DevOps-dataframe-project:Travis CI
+godaprojects-devops/jenkins-docker-local-kubernetes-springboot:Travis CI,Jenkins
+paradax005/Train-App-DevOps:Jenkins
+hassaanbk/springboot-maven-jenkins:Jenkins
+aservo/confapi-confluence-plugin:GitHub Actions
+aservo/confapi-jira-plugin:GitHub Actions
+ulzha/spive:GitHub Actions
+MRezaNasirloo/SpringBootDocker:GitLab CI
+acalvom/iwvg-devops-andrea-calvo:Travis CI
+awconstable/changeservice:Circle CI,GitHub Actions
