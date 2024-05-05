@@ -20,11 +20,16 @@ The project encompassed the following steps:
   
 4. **Data Analysis and Visualization**: In the final stage, various visualizations were created using Pandas and Matplotlib to analyze the extracted data. Hypothesis testing was performed using the Stats package to draw conclusions about the impact of CI/CD implementation on software quality.
 
-## Results and Findings
-The analysis yielded insights into the relationship between CI/CD implementation and software quality in statically typed languages. Key findings include...
-
 ## Conclusion
 In conclusion, this project shed light on the effects of CI/CD adoption on software quality, providing valuable insights for software development practices.
+
+- **Impact of CI/CD on Software Quality:** The research reveals a significant positive correlation between the adoption of Continuous Integration/Continuous Deployment (CI/CD) practices and enhanced software quality. By analyzing numerous open-source repositories, it becomes evident that CI/CD implementation improves code integration and deployment efficiency, resulting in reduced bugs in production environments.
+  
+- **Tool Selection Guidance:** Findings from RQ1 aid developers in selecting appropriate CI/CD tools for their projects. GitHub Actions emerges as a popular choice due to its versatility and ease of use, while JUnit remains prominent for Java projects. Insights into commonly used tools for unit tests, code smell, and security highlight SonarQube and CodeQL as leading choices.
+  
+- **Effectiveness of CI/CD in Bug Detection:** Investigation into RQ2 and RQ3 demonstrate that CI/CD practices effectively detect and prevent bugs in software development. Despite initial observations suggesting higher bug rates in CI/CD repositories, statistical analysis confirms the efficacy of CI/CD in identifying and addressing bugs early in the development lifecycle.
+
+- **Limitations and Future Research Directions:** While the study identifies significant differences in bug rates for certain error categories, there are remaining areas requiring further exploration. Future research could delve into additional error categories and address the handling of build tools like Maven and Gradle. Qualitative analysis could also supplement the quantitative findings for a more comprehensive understanding and validation of the results.
 
 ## Contributing
 Contributions and feedback are welcome! Feel free to submit issues or pull requests.
