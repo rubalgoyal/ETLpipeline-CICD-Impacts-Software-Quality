@@ -1,0 +1,163 @@
+Depressurizer/Depressurizer :code smell test ,sonar
+Depressurizer/Depressurizer :security test ,sonar
+larscom/xbox360-controller-manager :security test ,codeql
+kostasgrevenitis/Codenception.StairwayPatternArchitecture :code smell test ,sonar
+kostasgrevenitis/Codenception.StairwayPatternArchitecture :security test ,sonar
+bitwarden/server :security test ,codeql
+bitwarden/server :code smell test ,sonar
+bitwarden/server :security test ,codeql,checkmarx,sonar
+Ombi-app/Ombi :security test ,codeql
+Ombi-app/Ombi :code smell test ,sonar
+Ombi-app/Ombi :security test ,sonar
+Ombi-app/Ombi :code smell test ,sonar
+Ombi-app/Ombi :security test ,sonar
+testcontainers/testcontainers-dotnet :code smell test ,sonar
+testcontainers/testcontainers-dotnet :security test ,sonar
+testcontainers/testcontainers-dotnet :security test ,codeql
+Dotnet-Boxed/Templates :security test ,codeql
+phongnguyend/Practical.CleanArchitecture :security test ,codeql
+phongnguyend/Practical.CleanArchitecture :code smell test ,sonar
+phongnguyend/Practical.CleanArchitecture :security test ,sonar
+phongnguyend/Practical.CleanArchitecture :code smell test ,sonar
+phongnguyend/Practical.CleanArchitecture :security test ,sonar
+phongnguyend/Practical.CleanArchitecture :code smell test ,sonar
+phongnguyend/Practical.CleanArchitecture :security test ,sonar
+Webreaper/Damselfly :security test ,codeql
+mariotoffia/FluentDocker :code smell test ,sonar
+mariotoffia/FluentDocker :security test ,sonar
+zoriya/Kyoo :unit test ,boost
+IoTSharp/IoTSharp :security test ,codeql
+chayxana/Restaurant-App :security test ,codeql
+GZTimeWalker/GZCTF :security test ,codeql
+yanpitangui/dotnet-api-boilerplate :code smell test ,sonar
+yanpitangui/dotnet-api-boilerplate :security test ,sonar
+yanpitangui/dotnet-api-boilerplate :security test ,codeql
+yanpitangui/dotnet-api-boilerplate :security test ,codeql
+tomkerkhove/promitor :code smell test ,resharper,resharper
+tomkerkhove/promitor :security test ,codeql
+tomkerkhove/promitor :security test ,codeql,aquasec
+stphnwlsh/CleanMinimalApi :security test ,codeql
+serverlessworkflow/synapse :security test ,codeql
+Kaliumhexacyanoferrat/GenHTTP :code smell test ,sonar
+Kaliumhexacyanoferrat/GenHTTP :security test ,sonar
+amoraitis/TodoList :unit test ,xunit
+Liu233w/acm-statistics :code smell test ,sonar
+Liu233w/acm-statistics :security test ,sonar
+OpenCodeFoundation/eSchool :security test ,codeql
+LizardByte/Themerr-jellyfin :security test ,codeql
+LizardByte/Themerr-jellyfin :security test ,codeql
+MarcelMichau/fake-survey-generator :security test ,codeql
+StardustDL/acblog :security test ,codeql
+IEvangelist/dotnet-github-actions-sdk :security test ,codeql
+jeangatto/ASP.NET-Core-API-DDD-SOLID :security test ,codeql
+jeangatto/ASP.NET-Core-API-DDD-SOLID :security test ,codeql
+jeangatto/ASP.NET-Core-API-DDD-SOLID :code smell test ,sonar
+jeangatto/ASP.NET-Core-API-DDD-SOLID :security test ,sonar
+jbw/TooBigToFailBurgerShop :security test ,codeql
+bcgov/PIMS :unit test ,unittest
+fullstackhub-io/StudentCourseManagement :security test ,codeql
+thinktecture-labs/cloud-native-sample :code smell test ,sonarqube,sonar
+thinktecture-labs/cloud-native-sample :security test ,sonarqube,sonar
+GravityWolfNotAmused/PlayerCountDiscordBot :security test ,codeql
+gbauso/GraphAPI :code smell test ,sonar
+gbauso/GraphAPI :security test ,sonar
+sahansera/DistributedCacheAspNetCoreRedis :security test ,codeql
+cvetomir-todorov/CecoChat :code smell test ,sonar
+cvetomir-todorov/CecoChat :security test ,sonar
+jim60105/YoutubeLiveChatToDiscord :security test ,aquasec
+siemens/continuous-clearing :security test ,codeql
+GUILHERMEPSANTOS/NerdStoreEnterprise :code smell test ,sonar
+GUILHERMEPSANTOS/NerdStoreEnterprise :security test ,sonar
+leandro-cervelin/cf_api_net_core :security test ,codeql
+darakeon/dfm :security test ,codeql
+zimbres/UptimeKumaRemoteProbe :security test ,codeql
+szyb/synopackage_dotnet :security test ,codeql
+metalglove/Kwetter :code smell test ,sonar
+metalglove/Kwetter :security test ,sonar
+rosenbjerg/nxplx :security test ,codeql
+rosenbjerg/nxplx :code smell test ,sonar
+rosenbjerg/nxplx :security test ,sonar
+felipementel/DEPLOY.Cachorro.Api :code smell test ,sonar
+felipementel/DEPLOY.Cachorro.Api :security test ,sonar
+felipementel/PotatoStore :code smell test ,sonar
+felipementel/PotatoStore :security test ,sonar
+VMelnalksnis/Gnomeshade :code smell test ,resharper,resharper
+sanjyotagureddy/aspnetrun-microservices :security test ,codeql
+gabe-santana/chariot :security test ,codeql
+gabe-santana/chariot :security test ,codeql
+ahmettugur/MinimalApiCleanArchitecture :code smell test ,sonar
+ahmettugur/MinimalApiCleanArchitecture :security test ,sonar
+stphnwlsh/CleanGraphQLApi :security test ,codeql
+kevinboss/port :security test ,codeql
+managedcode/EnvironmentDetector :security test ,codeql
+austins/DiscordTranslationBot :security test ,codeql
+austins/DiscordTranslationBot :security test ,codeql
+austins/DiscordTranslationBot :security test ,codeql
+merken/netCoreBuild :unit test ,junit,xunit
+BinaryStudioAcademy/bsa-2021-watchdog :code smell test ,sonar
+BinaryStudioAcademy/bsa-2021-watchdog :security test ,sonar
+erlonfs/gestao-escolar :unit test ,junit
+MacroPower/OmegaGraf :code smell test ,sonar
+MacroPower/OmegaGraf :security test ,sonar
+felipementel/MaterialRedis :code smell test ,sonar
+felipementel/MaterialRedis :security test ,sonar
+MoonriseSoftwareCalifornia/Cosmos.Cms :security test ,codeql
+RaimondB/Detecticam :code smell test ,sonar
+RaimondB/Detecticam :security test ,sonar
+afgalvan/Tilia :security test ,codeql
+fri-team/Swapify :code smell test ,sonar
+fri-team/Swapify :security test ,sonar
+iamstan13y/fomalhaut-microservices :security test ,codeql
+Kaliumhexacyanoferrat/GenHTTP.Gateway :code smell test ,sonar
+Kaliumhexacyanoferrat/GenHTTP.Gateway :security test ,sonar
+BlankFoxGirl/cardinal :security test ,codeql
+BlankFoxGirl/cardinal :code smell test ,sonar
+BlankFoxGirl/cardinal :security test ,sonar
+gritcsenko/HomeInventory :security test ,codeql
+DaniloSI/Agenda-Medica-Old :code smell test ,sonar
+DaniloSI/Agenda-Medica-Old :security test ,sonar
+NetbootCommunity/MicroAutomation-Licensing :security test ,codeql
+AiursoftWeb/Manhours :unit test ,junit
+Velociraptor45/Xipona :code smell test ,sonar
+Velociraptor45/Xipona :security test ,sonar
+AngeloDotNet/GestioneSagreWeb :security test ,codeql
+behdad088/AspnetCoreMicroservices-Eshop :security test ,codeql
+fatihyildirim1o/aspnet-clean-architecture :code smell test ,sonar
+fatihyildirim1o/aspnet-clean-architecture :security test ,sonar
+jpcarpanezi/houston :security test ,codeql
+andrrff/BugSearch :security test ,codeql
+igortessaro/the-best-team :code smell test ,sonar
+igortessaro/the-best-team :security test ,sonar
+nordseth/Nibbler :security test ,codeql
+NetbootCommunity/Ocelot-Provider-Docker :security test ,codeql
+vladperchi/InmoIT :security test ,codeql
+alanmacgowan/WebApplication.Core :security test ,codeql
+aannenko/CrackSharp :security test ,codeql
+mekkl/dotnet-starter-template :security test ,codeql
+mekkl/dotnet-starter-template :code smell test ,sonar
+mekkl/dotnet-starter-template :security test ,sonar
+kane-armstrong/simple-adventure :code smell test ,sonar
+kane-armstrong/simple-adventure :security test ,sonar
+lucasdemoraesc/MaximaTech.DotnetChallenge :security test ,codeql
+AngeloDotNetArchive/SagreEventi.SQLServer :security test ,codeql
+CplNathan/SurePet2Google-Public :security test ,codeql
+sk-shahnawaz/aspdotnet-template :security test ,codeql
+stphnwlsh/CleanWebApi :security test ,codeql
+kwetterr/user-service :code smell test ,sonar
+kwetterr/user-service :security test ,sonar
+kwetterr/user-service :security test ,codeql
+ArturWincenciak/Blef :code smell test ,resharper,resharper
+ArturWincenciak/Blef :code smell test ,sonar
+ArturWincenciak/Blef :security test ,sonar
+ArturWincenciak/Blef :security test ,codeql
+Hephaestots/hrvy.cshare :security test ,codeql
+TomaszKandula/TokanPages :code smell test ,sonarqube,sonar
+TomaszKandula/TokanPages :security test ,sonarqube,sonar
+VMelnalksnis/Testcontainers :code smell test ,resharper,resharper
+bervProject/SimplePasswordManagerService :security test ,codeql
+bervProject/SimplePasswordManagerService :unit test ,unittest
+FIPost/package-service :code smell test ,sonar
+FIPost/package-service :security test ,sonar
+k8sdash/k8s-dashboard-api :code smell test ,sonarqube,sonar
+k8sdash/k8s-dashboard-api :security test ,sonarqube,sonar
+correia97/ServiceComunication :security test ,codeql

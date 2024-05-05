@@ -1,0 +1,320 @@
+dariol83/ccsds :code smell test ,sonar
+dariol83/ccsds :security test ,sonar
+dariol83/ccsds :code smell test ,sonar
+dariol83/ccsds :security test ,sonar
+gorpipe/gor :unit test ,junit,unittest
+3KeyCompany/CZERTAINLY-Software-Cryptography-Provider :code smell test ,sonar
+3KeyCompany/CZERTAINLY-Software-Cryptography-Provider :security test ,sonar
+3KeyCompany/CZERTAINLY-Software-Cryptography-Provider :security test ,codeql
+albertoiNET/designpatterns :code smell test ,sonar
+albertoiNET/designpatterns :security test ,sonar
+softwartechnik/catalin :code smell test ,sonarqube,sonar
+softwartechnik/catalin :security test ,sonarqube,sonar
+GoogleContainerTools/jib :code smell test ,sonarqube,sonar
+GoogleContainerTools/jib :security test ,sonarqube,sonar
+testcontainers/testcontainers-java :unit test ,junit
+testcontainers/testcontainers-java :unit test ,junit
+testcontainers/testcontainers-java :unit test ,junit
+strimzi/strimzi-kafka-operator :code smell test ,checkstyle,findbugs,pmd
+strimzi/strimzi-kafka-operator :security test ,codeql
+pytorch/serve :security test ,codeql
+bonigarcia/webdrivermanager :code smell test ,sonar
+bonigarcia/webdrivermanager :security test ,sonar
+fabric8io/docker-maven-plugin :code smell test ,sonar
+fabric8io/docker-maven-plugin :security test ,sonar
+fabric8io/docker-maven-plugin :code smell test ,sonar
+fabric8io/docker-maven-plugin :security test ,sonar
+ron190/jsql-injection :code smell test ,sonarqube,sonar
+ron190/jsql-injection :security test ,codeql,sonarqube,sonar
+ron190/jsql-injection :security test ,codeql
+dromara/Jpom :security test ,codeql
+OWASP/wrongsecrets :security test ,codeql
+OWASP/wrongsecrets :code smell test ,checkstyle
+OWASP/wrongsecrets :security test ,aquasec
+PlaytikaOSS/testcontainers-spring-boot :security test ,codeql,aquasec
+akto-api-security/akto :security test ,codeql
+akto-api-security/akto :code smell test ,sonar
+akto-api-security/akto :security test ,sonar
+akto-api-security/akto :code smell test ,sonar
+akto-api-security/akto :security test ,sonar
+adobe/S3Mock :security test ,codeql
+adobe/S3Mock :security test ,codeql
+apache/submarine :code smell test ,sonar
+apache/submarine :security test ,sonar
+apache/submarine :code smell test ,sonar
+apache/submarine :security test ,sonar
+hzxie/voj :code smell test ,pmd
+Project-Books/book-project :code smell test ,sonar
+Project-Books/book-project :security test ,sonar
+Camelcade/Perl5-IDEA :security test ,codeql
+Camelcade/Perl5-IDEA :code smell test ,sonarqube,sonar
+Camelcade/Perl5-IDEA :security test ,sonarqube,sonar
+Camelcade/Perl5-IDEA :security test ,codeql
+Camelcade/Perl5-IDEA :security test ,codeql
+piomin/sample-spring-microservices-kubernetes :code smell test ,sonar
+piomin/sample-spring-microservices-kubernetes :security test ,sonar
+mechero/full-reactive-stack :code smell test ,sonar
+mechero/full-reactive-stack :security test ,sonar
+amihaiemil/docker-java-api :code smell test ,checkstyle
+MobilityData/gtfs-validator :unit test ,emma
+bonigarcia/selenium-jupiter :code smell test ,sonar
+bonigarcia/selenium-jupiter :security test ,sonar
+vzakharchenko/keycloak-radius-plugin :code smell test ,sonar
+vzakharchenko/keycloak-radius-plugin :security test ,sonar
+RawSanj/spring-redis-websocket :security test ,codeql
+fisenkodv/dictum :security test ,codeql
+bonigarcia/selenium-webdriver-java :unit test ,junit,testng
+wesleyosantos91/poc-multi-module-arch-hexagonal-springboot :security test ,codeql
+wesleyosantos91/poc-multi-module-arch-hexagonal-springboot :code smell test ,sonar
+wesleyosantos91/poc-multi-module-arch-hexagonal-springboot :security test ,sonar
+salesforce/dockerfile-image-update :unit test ,unittest
+salesforce/dockerfile-image-update :security test ,codeql
+la3rence/websocket-cluster :code smell test ,sonar
+la3rence/websocket-cluster :security test ,sonar
+dockstore/dockstore :unit test ,junit
+dockstore/dockstore :code smell test ,sonar
+dockstore/dockstore :security test ,sonar
+dockstore/dockstore :security test ,codeql
+piomin/sample-spring-blockchain :code smell test ,sonar
+piomin/sample-spring-blockchain :security test ,sonar
+aidanwhiteley/books :code smell test ,sonar
+aidanwhiteley/books :security test ,sonar
+Failed to fetch content: HTTP 404
+hmcts/spring-boot-template :security test ,codeql
+cosminseceleanu/tutorials :code smell test ,checkstyle
+KostyaSha/yet-another-docker-plugin :code smell test ,coverity
+Failed to fetch content: HTTP 404
+usdot-jpo-ode/jpo-ode :code smell test ,sonar
+usdot-jpo-ode/jpo-ode :security test ,sonar
+usdot-jpo-ode/jpo-ode :code smell test ,sonar
+usdot-jpo-ode/jpo-ode :security test ,sonar
+jppf-grid/JPPF :unit test ,junit
+praveensirvi1212/DevSecOps-project :unit test ,junit
+praveensirvi1212/DevSecOps-project :code smell test ,sonar
+praveensirvi1212/DevSecOps-project :security test ,sonar
+oracle/weblogic-image-tool :unit test ,junit
+oracle/weblogic-image-tool :code smell test ,sonar
+oracle/weblogic-image-tool :security test ,sonar
+oracle/weblogic-image-tool :code smell test ,sonar
+oracle/weblogic-image-tool :security test ,sonar
+bytechefhq/bytechef :code smell test ,sonar
+bytechefhq/bytechef :security test ,sonar
+bytechefhq/bytechef :code smell test ,sonar
+bytechefhq/bytechef :security test ,sonar
+woowacourse-teams/2021-babble :code smell test ,sonarqube,sonar
+woowacourse-teams/2021-babble :security test ,sonarqube,sonar
+woowacourse-teams/2021-babble :code smell test ,sonarqube,sonar
+woowacourse-teams/2021-babble :security test ,sonarqube,sonar
+woowacourse-teams/2021-babble :code smell test ,sonarqube,sonar
+woowacourse-teams/2021-babble :security test ,sonarqube,sonar
+swissquote/carnotzet :unit test ,junit
+Failed to fetch content: HTTP 404
+Project-Books/books-api :code smell test ,sonar
+Project-Books/books-api :security test ,sonar
+dgroup/docker-unittests :code smell test ,sonar
+dgroup/docker-unittests :security test ,sonar
+giko/web-remoting :code smell test ,sonar
+giko/web-remoting :security test ,sonar
+sivaprasadreddy/techbuzz :code smell test ,sonar
+sivaprasadreddy/techbuzz :security test ,sonar
+f-lab-edu/ward-study-reservation :code smell test ,sonarqube,sonar
+f-lab-edu/ward-study-reservation :security test ,sonarqube,sonar
+EuregJUG-Maas-Rhine/site :code smell test ,sonarqube,sonar
+EuregJUG-Maas-Rhine/site :security test ,sonarqube,sonar
+SpringBootCourses/tasklist :code smell test ,checkstyle
+thyrlian/SonarOnDocker :code smell test ,sonarqube,sonar
+thyrlian/SonarOnDocker :security test ,sonarqube,sonar
+jfrog/auto-mat :unit test ,junit
+rajadilipkolli/spring-boot-microservices-series-v2 :code smell test ,sonar
+rajadilipkolli/spring-boot-microservices-series-v2 :security test ,sonar
+sivaprasadreddy/devzone :code smell test ,sonarqube,sonar
+sivaprasadreddy/devzone :security test ,sonarqube,sonar
+jenkins-infra/ircbot :unit test ,junit
+rslvn/bank-account-manager :code smell test ,sonarqube,sonar
+rslvn/bank-account-manager :security test ,sonarqube,sonar
+Angular2Guy/MovieManager :security test ,codeql
+muhamadto/spring-native-aws-lambda :code smell test ,sonar
+muhamadto/spring-native-aws-lambda :security test ,sonar
+muhamadto/spring-native-aws-lambda :security test ,codeql
+Angular2Guy/AngularPortfolioMgr :security test ,codeql
+consiglionazionaledellericerche/cool-jconon :code smell test ,sonar
+consiglionazionaledellericerche/cool-jconon :security test ,sonar
+luizgustavocosta/16-bits-zero-to-hero :code smell test ,sonarqube,sonar
+luizgustavocosta/16-bits-zero-to-hero :security test ,sonarqube,sonar
+metio/ilo :security test ,codeql
+FanJups/cicd-applied-to-spring-boot-java-app :code smell test ,sonar
+FanJups/cicd-applied-to-spring-boot-java-app :security test ,sonar
+f-lab-edu/infrun :code smell test ,sonarqube,sonar
+f-lab-edu/infrun :security test ,sonarqube,sonar
+yurake/k8s-3tier-webapp :security test ,codeql
+yurake/k8s-3tier-webapp :security test ,codeql
+yurake/k8s-3tier-webapp :security test ,codeql
+yurake/k8s-3tier-webapp :security test ,codeql,snyk
+yurake/k8s-3tier-webapp :unit test ,junit
+yurake/k8s-3tier-webapp :code smell test ,sonar
+yurake/k8s-3tier-webapp :security test ,codeql,sonar
+yurake/k8s-3tier-webapp :code smell test ,pmd
+yurake/k8s-3tier-webapp :security test ,codeql
+yurake/k8s-3tier-webapp :security test ,codeql,snyk
+Angular2Guy/AngularAndSpringWithMaps :security test ,codeql
+wkrzywiec/NoticeBoard :code smell test ,sonar
+wkrzywiec/NoticeBoard :security test ,sonar
+WiscWebGroup/photoly :security test ,codeql
+AmyAssist/Amy :code smell test ,sonar
+AmyAssist/Amy :security test ,sonar
+Consensys/quorum-acceptance-tests :unit test ,ctest
+Consensys/quorum-acceptance-tests :unit test ,gauge,ctest
+Consensys/quorum-acceptance-tests :unit test ,gauge,ctest
+zarashima/web-test-framework :unit test ,junit
+xenit-eu/alfresco-docker-gradle-plugin :code smell test ,sonarqube,sonar
+xenit-eu/alfresco-docker-gradle-plugin :security test ,sonarqube,sonar
+jenkinsci/jfrog-plugin :code smell test ,findbugs
+jeakfrw/jeak-framework :security test ,codeql
+brunotacca/poc_cleanarch_spring_multimodule :code smell test ,sonar
+brunotacca/poc_cleanarch_spring_multimodule :security test ,sonar
+tchlyah/testcontainers-java-module-couchbase :code smell test ,sonar
+tchlyah/testcontainers-java-module-couchbase :security test ,sonar
+qlik-oss/core-grpc-jdbc-connector :unit test ,unittest
+consiglionazionaledellericerche/sigla-main :code smell test ,sonar
+consiglionazionaledellericerche/sigla-main :security test ,sonar
+hmcts/cmc-claim-store :security test ,codeql
+Failed to fetch content: HTTP 404
+vinscom/api-framework :unit test ,junit
+vinscom/api-framework :code smell test ,sonar
+vinscom/api-framework :security test ,sonar
+isystk/java-springboot-boilerplate :unit test ,junit
+isystk/java-springboot-boilerplate :code smell test ,checkstyle,findbugs,pmd
+dockerunit/dockerunit :unit test ,junit
+oskopek/carcv :security test ,codeql
+exasol/exasol-testcontainers :code smell test ,sonar
+exasol/exasol-testcontainers :security test ,sonar
+piomin/sample-vertx-kubernetes :code smell test ,sonar
+piomin/sample-vertx-kubernetes :security test ,sonar
+amrabed/rhids :code smell test ,sonar
+amrabed/rhids :security test ,sonar
+lreimer/secure-devex22 :security test ,codeql
+lreimer/secure-devex22 :code smell test ,sonarqube,sonar
+lreimer/secure-devex22 :security test ,sonarqube,sonar
+NubeIO/iot-engine :unit test ,junit
+NubeIO/iot-engine :code smell test ,sonarqube,sonar
+NubeIO/iot-engine :security test ,sonarqube,sonar
+IT-Academy-BCN/BusinessAssistantBCN-backend :code smell test ,sonarqube,sonar
+IT-Academy-BCN/BusinessAssistantBCN-backend :security test ,sonarqube,sonar
+jenkinsci/docker-fixtures :unit test ,junit
+IT-Labs/backyard :security test ,codeql
+IT-Labs/backyard :security test ,codeql
+IT-Labs/backyard :security test ,codeql
+IT-Labs/backyard :security test ,codeql
+i-moonlight/Movie_Manager :security test ,codeql
+Lehnurr/spe-ed-solver :security test ,codeql
+bcgov/jag-file-submission :unit test ,cucumber
+capcodigital/team-course :unit test ,junit
+GhassenBoughzala/DevOps-Timesheet :code smell test ,sonar
+GhassenBoughzala/DevOps-Timesheet :security test ,sonar
+GhassenBoughzala/DevOps-Timesheet :code smell test ,sonarqube,sonar
+GhassenBoughzala/DevOps-Timesheet :security test ,sonarqube,sonar
+Vento/rest-api :code smell test ,sonar
+Vento/rest-api :security test ,sonar
+jenkinsci/jenkins :unit test ,junit
+jenkinsci/jenkins :code smell test ,checkstyle
+liquibase/liquibase :security test ,codeql
+liquibase/liquibase :code smell test ,sonar
+liquibase/liquibase :security test ,sonar
+arextest/arex-agent-java :code smell test ,sonar
+arextest/arex-agent-java :security test ,sonar
+chtrembl/azure-cloud :security test ,codeql
+twonote/radosgw-admin4j :security test ,codeql
+open-hand/devops-service :code smell test ,sonar
+open-hand/devops-service :security test ,sonar
+fossable/sandpolis :security test ,codeql
+Dathin/JHusky :code smell test ,sonar
+Dathin/JHusky :security test ,sonar
+Axway-API-Management-Plus/apim-cli :code smell test ,sonar
+Axway-API-Management-Plus/apim-cli :security test ,sonar
+vmware/build-tools-for-vmware-aria :security test ,codeql
+vmware/build-tools-for-vmware-aria :security test ,codeql
+hakbot/hakbot-origin-controller :code smell test ,coverity
+jlangch/venice :security test ,codeql
+fortify/FortifyVulnerabilityExporter :security test ,codeql
+ucloud/ucloud-sdk-java :code smell test ,sonar
+ucloud/ucloud-sdk-java :security test ,sonar
+miw-upm/iwvg-devops :code smell test ,sonar
+miw-upm/iwvg-devops :security test ,sonar
+NishkarshRaj/Maven-Using-CMD :security test ,codeql
+NishkarshRaj/Maven-Using-CMD :code smell test ,sonar
+NishkarshRaj/Maven-Using-CMD :security test ,sonar
+amihaiemil/comdor :code smell test ,checkstyle
+fortify-presales/IWA-Java :unit test ,junit
+javieraviles/quarkus-github-flow :code smell test ,sonar
+javieraviles/quarkus-github-flow :security test ,sonar
+MathiasReker/Java-CI-CD :unit test ,unittest
+MathiasReker/Java-CI-CD :security test ,codeql
+AutomationRockstars/Design :code smell test ,coverity
+AutomationRockstars/Design :unit test ,junit
+Axway-API-Management-Plus/apim-password-cert-env :code smell test ,pmd
+Axway-API-Management-Plus/apim-password-cert-env :security test ,codeql
+timurgaleev/demo-spring :code smell test ,sonar
+timurgaleev/demo-spring :security test ,sonar
+Treydone/dek :code smell test ,sonar
+Treydone/dek :security test ,sonar
+NorthropGrumman/jellyfish :unit test ,junit
+NorthropGrumman/jellyfish :code smell test ,sonarqube,sonar
+NorthropGrumman/jellyfish :security test ,sonarqube,sonar
+dongxishaonian/cangjie-delivery :security test ,codeql
+jahanzeb-j/DevOps :unit test ,junit
+Microservices-DevOps/person :unit test ,junit
+Microservices-DevOps/person :code smell test ,checkstyle,findbugs,pmd
+entando-k8s/entando-k8s-controller-coordinator :code smell test ,sonar
+entando-k8s/entando-k8s-controller-coordinator :security test ,sonar
+intergral/deep-java-client :code smell test ,pmd
+cloudacademy/java-tdd-bitcoinconverter :security test ,codeql
+udacity-courses/capstone :unit test ,junit
+udacity-courses/capstone :code smell test ,checkstyle
+mukeshpilaniya/cms :code smell test ,sonar
+mukeshpilaniya/cms :security test ,sonar
+franklinholguin/MULTI-TIER-WEB-APP-SETUP :unit test ,junit
+franklinholguin/MULTI-TIER-WEB-APP-SETUP :code smell test ,checkstyle,sonar
+franklinholguin/MULTI-TIER-WEB-APP-SETUP :security test ,sonar
+devopsicon/sales-microservice :unit test ,cucumber
+dheid/sentry-http-interceptors :security test ,codeql
+awconstable/teamdashboard :unit test ,junit
+awconstable/teamdashboard :security test ,codeql
+aravindsak/CICD-Pipeline-with-GithubActions-Docker :code smell test ,sonarqube,sonar
+aravindsak/CICD-Pipeline-with-GithubActions-Docker :security test ,sonarqube,sonar
+Failed to fetch content: HTTP 404
+marcpinet/takenoko :code smell test ,sonar
+marcpinet/takenoko :security test ,sonar
+JuKu/ansible-manager :code smell test ,sonarqube,sonar
+JuKu/ansible-manager :security test ,sonarqube,sonar
+techntricks/mdevops-projects :unit test ,junit
+techntricks/mdevops-projects :code smell test ,checkstyle,sonar
+techntricks/mdevops-projects :security test ,sonar
+sourabhgupta385/sample-springboot-mysql-app :code smell test ,findbugs,sonar
+sourabhgupta385/sample-springboot-mysql-app :security test ,sonar
+suprkco/D-ploiement-automatis-et-livraison-continu-avec-Github-Ansible-et-Docker :code smell test ,sonar
+suprkco/D-ploiement-automatis-et-livraison-continu-avec-Github-Ansible-et-Docker :security test ,sonar
+JoaoBruno09/ODSOFT-CI-CD :unit test ,junit,cucumber
+JoaoBruno09/ODSOFT-CI-CD :code smell test ,checkstyle
+hvvka/devops :code smell test ,checkstyle
+nerstak/M1-Devops-Project :unit test ,junit
+mimaraslan/devops-demo :code smell test ,sonarqube,sonar
+mimaraslan/devops-demo :security test ,aquasec,sonarqube,sonar
+Lito-Frito/A-Kubernetes-Kaniko-Pipeline-Java-Calculator :code smell test ,checkstyle
+jenspapenhagen/caas :security test ,codeql
+achrafhammi/Mini-Bank-Backend :code smell test ,sonar
+achrafhammi/Mini-Bank-Backend :security test ,sonar
+akiltipu/secure-shop-devops :code smell test ,sonar
+akiltipu/secure-shop-devops :security test ,sonar
+choerodon/foundation-service :code smell test ,sonar
+choerodon/foundation-service :security test ,sonar
+awconstable/incidentservice :unit test ,junit
+awconstable/incidentservice :security test ,codeql
+sourabhgupta385/sample-springboot-mongo-app :code smell test ,findbugs,sonar
+sourabhgupta385/sample-springboot-mongo-app :security test ,sonar
+paradax005/Train-App-DevOps :code smell test ,sonar
+paradax005/Train-App-DevOps :security test ,sonar
+hassaanbk/springboot-maven-jenkins :unit test ,junit
+acalvom/iwvg-devops-andrea-calvo :code smell test ,sonar
+acalvom/iwvg-devops-andrea-calvo :security test ,sonar
+awconstable/changeservice :unit test ,junit
+awconstable/changeservice :security test ,codeql
